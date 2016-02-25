@@ -1,0 +1,16 @@
+#form {
+	padding: 200px;
+	margin: auto;
+	width: 200px;
+}
+
+#submitBtn {
+	margin: auto;
+	width: 205px;
+	padding: 5px;
+	font-weight: bold;
+}
+
+.box {
+	width: 200px;
+}
